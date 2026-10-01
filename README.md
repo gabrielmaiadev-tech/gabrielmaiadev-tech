@@ -84,7 +84,7 @@ Sou estudante do curso de Tecnologia em Sistemas para Internet no Instituto Fede
 * **Informática Básica (Pacote Office)** — Casa do Jovem Aprendiz (Concluído em 2026)
 
 
-* [Ver Certificado](https://www.google.com/search?q=https://drive.google.com/file/d/1JVVe8icl0TXTBnemdK4cYL9KE4nUGkR/view%3Fusp%3Dsharing)
+* [Ver Certificado](https://drive.google.com/file/d/1JVVe8icl0TXTBnemdK4cYL9K_E4nUGkR/view?usp=sharing)
 
 
 
