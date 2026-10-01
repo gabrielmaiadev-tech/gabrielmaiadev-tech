@@ -90,7 +90,7 @@ Sou estudante do curso de Tecnologia em Sistemas para Internet no Instituto Fede
 
 * **Certificado InfluêncIA**
 
-* [Ver Certificado](https://www.google.com/search?q=https://drive.google.com/file/d/10XzKU5XYzy_6uFZsEhYU438wlSvO-P5A/view%3Fusp%3Dsharing)
+* [Ver Certificado](https://drive.google.com/file/d/10XzKU5XYzy_6uFZsEhYU438wlSvO-P5A/view?usp=sharing)
 
 
 
