@@ -1,6 +1,6 @@
 ---
 
-# 💻 Portfólio Profissional — Gabriel Araújo Maia da Silva
+💻 Portfólio Profissional — Gabriel Araújo Maia da Silva
 
  **Gabriel Araújo Maia da Silva**
 
