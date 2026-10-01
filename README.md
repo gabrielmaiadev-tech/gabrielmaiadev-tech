@@ -2,7 +2,7 @@
 
 # 💻 Portfólio Profissional — Gabriel Araújo Maia da Silva
 
-### **Gabriel Araújo Maia da Silva**
+ **Gabriel Araújo Maia da Silva**
 
 **Desenvolvedor de Software | Estagiário / Júnior**
 
