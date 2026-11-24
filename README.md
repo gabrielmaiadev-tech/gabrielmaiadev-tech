@@ -94,9 +94,7 @@ Sou estudante do curso de Tecnologia em Sistemas para Internet no Instituto Fede
 
 * **Lógica de programação: mergulhe em programação com JavaScript - Alura (6h, concluído em 24/11/2026)**
 
-* [Ver Certificado] (https://drive.google.com/file/d/1gX4EV9RhjM9KKk2SiVIcqHZFZboESQns/view?usp=sharing)
-
-
+[Ver Certificado](https://drive.google.com/file/d/1gX4EV9RhjM9KKk2SiVIcqHZFZboESQns/view?usp=sharing)
 
 
 ---
