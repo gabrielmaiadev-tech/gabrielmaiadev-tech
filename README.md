@@ -97,7 +97,5 @@ Sinta-se à vontade para entrar em contato comigo através dos seguintes canais:
 
 * **LinkedIn:** [Gabriel Maia](https://www.google.com/search?q=https://www.linkedin.com/in/gabriel-maia-01a8922a0/)
 
-* **GitHub:** [gabrielmaiadev-tech](https://www.google.com/search?q=https://github.com/gabrielmaiadev-tech)
-
 
 ---
