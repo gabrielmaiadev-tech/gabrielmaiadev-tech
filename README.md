@@ -4,7 +4,7 @@
 
  **Gabriel Araújo Maia da Silva**
 
-**Desenvolvedor de Software | Estagiário / Júnior**
+**Desenvolvedor Web Full Stack | Estagiário / Júnior**
 
 📍 Natal, RN — Brasil
 
