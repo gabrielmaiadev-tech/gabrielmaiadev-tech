@@ -37,9 +37,6 @@ Sou estudante do curso de Tecnologia em Sistemas para Internet no Instituto Fede
 * **Tecnologias:** TypeScript, React / HTML5 / CSS3, REST API.
 
 
-* **Links:** [Repositório no GitHub](https://www.google.com/search?q=https://github.com/gabrielmaiadev-tech)
-
-
 
 ###  **API Back-end & Banco de Dados**
 
@@ -47,9 +44,6 @@ Sou estudante do curso de Tecnologia em Sistemas para Internet no Instituto Fede
 
 
 * **Tecnologias:** Python, Django Rest Framework, PostgreSQL / MySQL.
-
-
-* **Links:** [Repositório no GitHub](https://www.google.com/search?q=https://github.com/gabrielmaiadev-tech)
 
 
 ---
