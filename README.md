@@ -12,7 +12,7 @@
 
 🔗 **LinkedIn:** [linkedin.com/in/gabriel-maia-01a8922a0](https://www.google.com/search?q=https://www.linkedin.com/in/gabriel-maia-01a8922a0/)
 
-🖥️ **GitHub:** ([https://github.com/gabrielmaiadev-tech]
+🖥️ **GitHub:** [https://github.com/gabrielmaiadev-tech]
 
 ---
 
