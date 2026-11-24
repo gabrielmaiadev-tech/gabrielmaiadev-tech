@@ -8,7 +8,7 @@
 
 📍 Natal, RN — Brasil
 
-📧 **Email:** [contato.gabrielmaiadev@gmail.com](https://www.google.com/search?q=mailto%3Acontato.gabrielmaiadev%40gmail.com)
+📧 **Email:** [contato.gabrielmaiadev@gmail.com]
 
 🔗 **LinkedIn:** [linkedin.com/in/gabriel-maia-01a8922a0](https://www.google.com/search?q=https://www.linkedin.com/in/gabriel-maia-01a8922a0/)
 
@@ -30,28 +30,18 @@ Sou estudante do curso de Tecnologia em Sistemas para Internet no Instituto Fede
 * **Front-end:** React, HTML5, CSS3.
 
 
-* **Back-end & Bases de Dados:** Django Rest Framework, MySQL, PostgreSQL, MongoDB[cite: 2].
-* **Ferramentas & Metodologias:** Git, GitHub, Docker, Linux, Scrum, Kanban[cite: 2].
+* **Back-end & Bases de Dados:** Django Rest Framework, MySQL, PostgreSQL, MongoDB.
+* **Ferramentas & Metodologias:** Git, GitHub, Docker, Linux, Scrum, Kanban.
 
 ---
-
-## 📂 Projetos em Destaque
-
-*(Sugestão: Adiciona aqui os teus principais repositórios do GitHub com links diretos e demonstrações ao vivo)*
-
-### 1. **Aplicação Web / Consumo de API REST**
-
-* **Descrição:** Construção de interface interativa consumindo APIs externas e gerindo estados no front-end.
-
-
 * **Tecnologias:** TypeScript, React / HTML5 / CSS3, REST API.
 
 
-* **Links:** [Repositório no GitHub](https://www.google.com/search?q=https://github.com/gabrielmaiadev-tech) | [Ver Demonstração]
+* **Links:** [Repositório no GitHub](https://www.google.com/search?q=https://github.com/gabrielmaiadev-tech)
 
 
 
-### 2. **API Back-end & Banco de Dados**
+###  **API Back-end & Banco de Dados**
 
 * **Descrição:** Desenvolvimento de API RESTful com autenticação, estruturação de dados e integração com bases de dados relacionais e não-relacionais.
 
@@ -64,7 +54,7 @@ Sou estudante do curso de Tecnologia em Sistemas para Internet no Instituto Fede
 
 ---
 
-## 🎓 Formação Académica
+## 🎓 Formação Acadêmica
 
 * **Tecnologia em Sistemas para Internet**
 
@@ -101,9 +91,9 @@ Sou estudante do curso de Tecnologia em Sistemas para Internet no Instituto Fede
 
 ## 📬 Contato
 
-Sente-te à vontade para entrar em contacto comigo através dos seguintes canais:
+Sinta-se à vontade para entrar em contato comigo através dos seguintes canais:
 
-* **E-mail:** [contato.gabrielmaiadev@gmail.com](https://www.google.com/search?q=mailto%3Acontato.gabrielmaiadev%40gmail.com)
+* **E-mail:** [contato.gabrielmaiadev@gmail.com]
 
 * **LinkedIn:** [Gabriel Maia](https://www.google.com/search?q=https://www.linkedin.com/in/gabriel-maia-01a8922a0/)
 
